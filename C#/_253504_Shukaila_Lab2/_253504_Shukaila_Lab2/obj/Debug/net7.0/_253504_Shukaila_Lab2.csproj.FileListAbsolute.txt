@@ -1,0 +1,15 @@
+D:\253505\3 sem\ИСП\_253504_Shukaila_Lab2\_253504_Shukaila_Lab2\bin\Debug\net7.0\_253504_Shukaila_Lab2.exe
+D:\253505\3 sem\ИСП\_253504_Shukaila_Lab2\_253504_Shukaila_Lab2\bin\Debug\net7.0\_253504_Shukaila_Lab2.deps.json
+D:\253505\3 sem\ИСП\_253504_Shukaila_Lab2\_253504_Shukaila_Lab2\bin\Debug\net7.0\_253504_Shukaila_Lab2.runtimeconfig.json
+D:\253505\3 sem\ИСП\_253504_Shukaila_Lab2\_253504_Shukaila_Lab2\bin\Debug\net7.0\_253504_Shukaila_Lab2.dll
+D:\253505\3 sem\ИСП\_253504_Shukaila_Lab2\_253504_Shukaila_Lab2\bin\Debug\net7.0\_253504_Shukaila_Lab2.pdb
+D:\253505\3 sem\ИСП\_253504_Shukaila_Lab2\_253504_Shukaila_Lab2\obj\Debug\net7.0\_253504_Shukaila_Lab2.csproj.AssemblyReference.cache
+D:\253505\3 sem\ИСП\_253504_Shukaila_Lab2\_253504_Shukaila_Lab2\obj\Debug\net7.0\_253504_Shukaila_Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\253505\3 sem\ИСП\_253504_Shukaila_Lab2\_253504_Shukaila_Lab2\obj\Debug\net7.0\_253504_Shukaila_Lab2.AssemblyInfoInputs.cache
+D:\253505\3 sem\ИСП\_253504_Shukaila_Lab2\_253504_Shukaila_Lab2\obj\Debug\net7.0\_253504_Shukaila_Lab2.AssemblyInfo.cs
+D:\253505\3 sem\ИСП\_253504_Shukaila_Lab2\_253504_Shukaila_Lab2\obj\Debug\net7.0\_253504_Shukaila_Lab2.csproj.CoreCompileInputs.cache
+D:\253505\3 sem\ИСП\_253504_Shukaila_Lab2\_253504_Shukaila_Lab2\obj\Debug\net7.0\_253504_Shukaila_Lab2.dll
+D:\253505\3 sem\ИСП\_253504_Shukaila_Lab2\_253504_Shukaila_Lab2\obj\Debug\net7.0\refint\_253504_Shukaila_Lab2.dll
+D:\253505\3 sem\ИСП\_253504_Shukaila_Lab2\_253504_Shukaila_Lab2\obj\Debug\net7.0\_253504_Shukaila_Lab2.pdb
+D:\253505\3 sem\ИСП\_253504_Shukaila_Lab2\_253504_Shukaila_Lab2\obj\Debug\net7.0\_253504_Shukaila_Lab2.genruntimeconfig.cache
+D:\253505\3 sem\ИСП\_253504_Shukaila_Lab2\_253504_Shukaila_Lab2\obj\Debug\net7.0\ref\_253504_Shukaila_Lab2.dll
